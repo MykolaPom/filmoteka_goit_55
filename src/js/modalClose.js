@@ -1,5 +1,3 @@
-//document.addEventListener('keydown', onEscapeClick);
-
 function onEscapeClick(event, element) {
   //console.log('esc');
   if (event.code == 'Escape') {

@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "filmoteka_goit_13",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://gradussus.github.io/filmoteka_team-13",
+  "homepage": "https://MykolaPom.github.io/filmoteka_goit_55",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /filmoteka_team-13/"
+    "build": "parcel build src/*.html --public-url /filmoteka_goit_55/"
   },
   "repository": {
     "type": "git",
